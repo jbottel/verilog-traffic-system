@@ -1,0 +1,17 @@
+//! **************************************************************************
+// Written by: Map P.49d on Sun Apr 21 22:33:03 2013
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "Yew" LOCATE = SITE "M11" LEVEL 1;
+COMP "ew_sensor" LOCATE = SITE "C11" LEVEL 1;
+COMP "clk" LOCATE = SITE "B8" LEVEL 1;
+COMP "Yns" LOCATE = SITE "N5" LEVEL 1;
+COMP "Rew" LOCATE = SITE "P7" LEVEL 1;
+COMP "Gew" LOCATE = SITE "M5" LEVEL 1;
+COMP "ns_sensor" LOCATE = SITE "G12" LEVEL 1;
+COMP "Rns" LOCATE = SITE "N4" LEVEL 1;
+COMP "Gns" LOCATE = SITE "P6" LEVEL 1;
+NET "clk_BUFGP/IBUFG" BEL "clk_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

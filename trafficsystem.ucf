@@ -1,0 +1,11 @@
+NET "clk" LOC = "B8"; # Bank = 0, Signal name = MCLK
+
+NET "Rns" LOC = "N4" ;  # Bank = 2, Signal name = LD5
+NET "Yns" LOC = "N5" ;  # Bank = 2, Signal name = LD4
+NET "Gns" LOC = "P6" ; # Bank = 2, Signal name = LD3
+NET "Rew" LOC = "P7" ; # Bank = 3, Signal name = LD2
+NET "Yew" LOC = "M11" ; # Bank = 2, Signal name = LD1
+NET "Gew" LOC = "M5" ;  # Bank = 2, Signal name = LD0
+
+NET "ew_sensor" LOC = "C11"; # Bank = 2, Signal name = BTN1
+NET "ns_sensor" LOC = "G12"; # Bank = 0, Signal name = BTN0

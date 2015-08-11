@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=C:\Users\Main\Documents\XilinxProject\FinalProject\impact.xsl
+OUTFILE=C:\Users\Main\Documents\XilinxProject\FinalProject\impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=C:\Users\Main\Documents\XilinxProject\FinalProject
+LICENSE=iMPACT
+USER_INFO=iMPACT

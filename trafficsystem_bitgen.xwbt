@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Main\Documents\XilinxProject\FinalProject\trafficsystem.ncd
+OUTFILE=C:\Users\Main\Documents\XilinxProject\FinalProject\trafficsystem.bit
+FAMILY=Spartan3E
+PART=xc3s100e-4cp132
+WORKINGDIR=C:\Users\Main\Documents\XilinxProject\FinalProject
+LICENSE=WebPack
+USER_INFO=210714721_0_0_657
